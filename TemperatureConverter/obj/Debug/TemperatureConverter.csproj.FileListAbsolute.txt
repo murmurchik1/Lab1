@@ -1,0 +1,7 @@
+C:\Users\ushak\source\repos\TemperatureConverter\bin\Debug\TemperatureConverter.exe.config
+C:\Users\ushak\source\repos\TemperatureConverter\bin\Debug\TemperatureConverter.exe
+C:\Users\ushak\source\repos\TemperatureConverter\bin\Debug\TemperatureConverter.pdb
+C:\Users\ushak\source\repos\TemperatureConverter\obj\Debug\TemperatureConverter.csproj.AssemblyReference.cache
+C:\Users\ushak\source\repos\TemperatureConverter\obj\Debug\TemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\ushak\source\repos\TemperatureConverter\obj\Debug\TemperatureConverter.exe
+C:\Users\ushak\source\repos\TemperatureConverter\obj\Debug\TemperatureConverter.pdb
